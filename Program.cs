@@ -17,7 +17,7 @@ namespace week1
             int inches = program.FeetToInches(3);
             Console.WriteLine($"3 feet is: {inches} inches.");
 
-
+            Console.WriteLine("Mai Thien Phuc (Bin Mai), Student Number: 000461754");
             string message = "this is our first program in C#";
             var message2 = "new message";
             var a = 5;
